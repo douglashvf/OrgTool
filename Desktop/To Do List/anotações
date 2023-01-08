@@ -1,0 +1,13 @@
+Objetivos do to do:
+
+    Cadastro e Login
+
+    Adicionar tarefas, concluir e remover.
+
+    Nivel de conclusão
+
+    Nivel de urgencia
+
+    Dados do usuario
+
+Comunicação do javascript com o banco de dados MySQL, para salvar tudo no banco e puxar quando necessario com o login e senha. 
